@@ -1,0 +1,9 @@
+startup.o 
+test.o 
+test.bin 
+test.elf 
+test.uimg
+*.bin
+*.out
+*.bin.bak
+gentest.*
